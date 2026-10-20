@@ -1,15 +1,9 @@
-# Privacy Policy — Tower Defense Offline
-
-**Instrucciones:** sustituye `[DEVELOPER_NAME]`, `[CONTACT_EMAIL]` y la fecha. Publica este texto en una URL HTTPS (GitHub Pages, Notion público, tu web, etc.) y pega esa URL en Play Console → Política de privacidad.
-
----
-
-# Privacy Policy
+# Privacy Policy — Tower Defense Offline (english)
 
 **Last updated:** 20 October 2026
 
-**Developer:** [DEVELOPER_NAME]  
-**Contact:** [CONTACT_EMAIL]  
+**Developer:** lynxsp 
+**Contact:** alvarogruiz8@gmail.com
 **App:** Tower Defense Offline
 
 ## Overview
@@ -52,16 +46,16 @@ We may update this policy when the app changes. The “Last updated” date at t
 
 ## Contact
 
-Questions about this policy: [CONTACT_EMAIL]
+Questions about this policy: alvarogruiz8@gmail.com
 
 ---
 
-## Política de privacidad (español, misma URL o página aparte)
+# Política de privacidad — Tower Defense Offline (español)
 
 **Última actualización:** 20 de octubre de 2026
 
-**Desarrollador:** [DEVELOPER_NAME]  
-**Contacto:** [CONTACT_EMAIL]  
+**Desarrollador:** lynxsp  
+**Contacto:** alvarogruiz8@gmail.com  
 **Aplicación:** Tower Defense Offline
 
 ### Resumen
@@ -94,5 +88,5 @@ Puedes borrar los datos de la app en Ajustes de Android o desinstalarla.
 
 ### Contacto
 
-[CONTACT_EMAIL]
+alvarogruiz8@gmail.com
 # Defense-Tower-Offline-Privacy-Policy
